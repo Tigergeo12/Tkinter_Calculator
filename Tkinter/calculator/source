@@ -10,3 +10,16 @@ https://www.youtube.com/watch?v=NzSCNjn4_RI&t=335s
 https://www.geeksforgeeks.org/python-gui-tkinter/
 https://www.geeksforgeeks.org/python-tkinter-label/
 https://www.geeksforgeeks.org/python-tkinter-tutorial/
+https://www.w3schools.com/python/python_lambda.asp
+https://www.freecodecamp.org/news/lambda-function-in-python-example-syntax/
+
+Anonymous: Unlike regular functions defined using the def keyword, lambda functions do not have a name. This is why they are often referred to as anonymous functions.
+
+Single Expression: A lambda function can only contain a single expression. This expression is evaluated and returned when the function is called. You cannot include multiple statements or complex logic.
+
+Return Value: The result of the expression is automatically returned; you do not need to use the return statement.
+
+Use Cases: lambda functions are often used in situations where you need a small function for a short period of time and do not want to formally define it with a name. Common use cases include:
+
+As arguments to higher-order functions (functions that take other functions as arguments).
+In functional programming constructs like map(), filter(), and reduce().
